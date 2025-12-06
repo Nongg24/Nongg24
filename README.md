@@ -16,6 +16,14 @@
 <a href="https://www.tiktok.com/@nonggg24" target="blank"><img align="center" src=".\media\icons8-tiktok-50.png" alt="vietlong" height="30" width="40" /></a>
 </div>
 
+<h2 align="center">💻 Languages-Tools 🔧</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,js" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,pycharm" /><br>
+</div>
+<br/>
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nongg24&theme=onedark)](https://github.com/Nongg24/github-profile-trophy)
 
