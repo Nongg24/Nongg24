@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nongg</h1>
 <h3 align="center">A student at VNUHCM - University of Science</h3>
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykuf5dvuzo5aml32sx4gw2w7qi&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykuf5dvuzo5aml32sx4gw2w7qi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykuf5dvuzo5aml32sx4gw2w7qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 <br>
@@ -23,8 +23,5 @@
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/Nongg24/upgraded-octo-disco/76d0c819e216239f763ffc525d67e412257698f5/generated/overview.svg?token=BRM3V3V5NWHMVEVLB67SB6DJGRTA6)
 
 ## 💬 Contact
-
-![mailto:takai1124@proton.me](https://img.shields.io/badge/takai1124@proton.me-ffffff?style=flat&logo=proton-mail)
-![cc.7z](https://img.shields.io/badge/cc.7z-ffffff?style=flat&logo=discord)
 
 ![visitor-badge.laobi.icu](https://visitor-badge.laobi.icu/badge?page_id=Nongg24&left_text=Visitor%20Count:)  
