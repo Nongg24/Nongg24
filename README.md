@@ -1,40 +1,20 @@
-  <h1 align="center">Hi 👋, I'm Nong</h1>
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p> -->
-<p>🌱 I’m currently a fresher at <strong>VNUHCM - University of Science</strong>
-<!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>
-<br> -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+<h1 align="center">Hi 👋, I'm Nongg</h1>
+<h3 align="center">A student at VNUHCM - University of Science</h3>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykuf5dvuzo5aml32sx4gw2w7qi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykuf5dvuzo5aml32sx4gw2w7qi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
-<hr width="36%">
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nongg24&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="Nongg24"></p>
-<p><br><br><br><br><br><br><br></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nongg24&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="Nongg24"></p>
-<br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nongg24&amp;theme=dark" alt="Nongg24"></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nongg24&label=Profile%20views&color=0e75b6&style=flat" alt="nongg24" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nongg24" alt="nongg24" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40"></a>
-<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40"></a>
-<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40"></a>
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40"></a>
 </p>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nongg24&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Nongg24"> </p>
-<hr>
-<p><a href="https://github.com/Nongg24">Nongg24</a></p>
-<p>Last Edited on: 06/12/2025</p> 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"  width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nongg24&show_icons=true&locale=en" alt="nongg24" /></p>
