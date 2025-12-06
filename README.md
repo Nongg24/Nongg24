@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nongg</h1>
-<h3 align="center">A student at VNUHCM - University of Science</h3>
+<h3 align="center">A student at VNUHCM - University of Science<img src=".\media\images.png" alt="KHTN" width="30" height="30"></h3>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
