@@ -19,11 +19,11 @@
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="anii693"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nongg24&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="Nongg24"></p>
 <p><br><br><br><br><br><br><br></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="anii693"></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nongg24&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="Nongg24"></p>
 <br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&amp;theme=dark" alt="anii693"></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nongg24&amp;theme=dark" alt="Nongg24"></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%">
 <h3 align="left">Connect with me:</h3>
@@ -34,7 +34,7 @@
 <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40"></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anii693"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nongg24&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Nongg24"> </p>
 <hr>
 <p><a href="https://github.com/Nongg24">Nongg24</a></p>
 <p>Last Edited on: 06/12/2025</p> 
