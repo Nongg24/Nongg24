@@ -7,11 +7,11 @@
   </a>
 </p>
 
-<h2 align="center">🌐 Connect with me 🌐</h2>
+<h2 align="center">📱 Socials 🌐</h2>
 <div align="center">
 <a href="https://www.facebook.com/vietlong.nguyen.2407" target="blank"><img align="center" src=".\media\icons8-facebook-50.png" alt="vietlong" height="30" width="40" /></a>
 <a href="https://discord.com/users/572612322993111051" target="blank"><img align="center" src=".\media\icons8-discord-50.png" alt="vietlong" height="30" width="40" /></a>
-<a href="https://github.com/Nongg24" target="blank"><img align="center" src=".\media\icons8-github-50.png" alt="vietlong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sabertoaster" target="blank"><img align="center" src=".\media\icons8-github-50.png" alt="vietlong" height="30" width="40" /></a>
 <a href="https://www.instagram.com/n0ng.24/" target="blank"><img align="center" src=".\media\icons8-instagram-50.png" alt="vietlong" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@nonggg24" target="blank"><img align="center" src=".\media\icons8-tiktok-50.png" alt="vietlong" height="30" width="40" /></a>
 </div>
@@ -24,5 +24,4 @@
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/Nongg24/upgraded-octo-disco/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
 
 ## 💬 Contact
-
 ![visitor-badge.laobi.icu](https://visitor-badge.laobi.icu/badge?page_id=Nongg24&left_text=Visitor%20Count:)  
