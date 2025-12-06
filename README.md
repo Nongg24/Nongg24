@@ -8,11 +8,11 @@
 <br>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nongg24-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nongg24&theme=onedark)](https://github.com/Nongg24/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/Nongg24/upgraded-octo-disco/refs/heads/master/generated/languages.svg)
-![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/Nongg24/upgraded-octo-disco/refs/heads/master/generated/overview.svg)
+![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/Nongg24/upgraded-octo-disco/refs/heads/master/generated/languages.svg#gh-dark-mode-only)
+![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/Nongg24/upgraded-octo-disco/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
 
 ## 💬 Contact
 
