@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nongg</h1>
-<p align="center">
-  <b>A student at VNUHCM - University of Science</b>
-  <picture>
-    <img src="./media/Logo-dai-hoc-khoa-hoc-tu-nhien.png" alt="KHTN" width="28" height="28" valign="middle">
-  </picture>
-</p>
-
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="font-size: 24px; border: none; padding-right: 5px;"><b>A student at VNUHCM - University of Science</b></td>
+    <td style="border: none; padding: 0;"><img src="./media/Logo-dai-hoc-khoa-hoc-tu-nhien.png" alt="KHTN" width="35" height="35"></td>
+  </tr>
+</table>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykuf5dvuzo5aml32sx4gw2w7qi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
