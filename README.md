@@ -30,3 +30,6 @@
 
 ## 💬 Contact
 ![visitor-badge.laobi.icu](https://visitor-badge.laobi.icu/badge?page_id=Nongg24&left_text=Visitor%20Count:)  
+
+
+<h6 align="center" style="opacity: 0.6;"><i>"be doing anything but coding..."</i></h6>
