@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nongg</h1>
-<p align="center" style="font-size: 24px;">
-  <b>A student at VNUHCM - University of Science</b>&nbsp;&nbsp;<img src="./media/Logo-dai-hoc-khoa-hoc-tu-nhien.png" alt="KHTN" width="35" height="35" style="vertical-align: middle;">
-</p>
+<h2 align="center">A student at VNUHCM - University of Science&nbsp;<img src="./media/Logo-dai-hoc-khoa-hoc-tu-nhien.png" alt="KHTN" width="100" height="100"></h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ykuf5dvuzo5aml32sx4gw2w7qi&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
